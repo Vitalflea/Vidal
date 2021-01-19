@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0
+DLL-Import Debug|Win32|C:\Users\Mephisto\source\repos\Project555\inc\cryptopp\|
